@@ -1,14 +1,5 @@
 # ConfBeer - Aplicación de Conferencias de Cerveza Artesanal
 
-## Resumen
-ConfBeer es una aplicación móvil desarrollada con React Native y Expo que muestra una lista de conferencias sobre cerveza artesanal en Concepción del Uruguay, Entre Ríos, Argentina. La aplicación permite:
-
-- Ver una lista de 10 conferencias con títulos, descripciones, disertantes, horarios e imágenes únicas (`beer1.jpg` a `beer10.jpg`).
-- Consultar detalles de cada conferencia, incluyendo un botón para ver su ubicación en un mapa.
-- Visualizar todas las conferencias o una conferencia específica en un mapa centrado en Concepción del Uruguay, con marcadores para cada ubicación.
-- Interfaz completamente en español, con datos almacenados en `AsyncStorage` para persistencia.
-
-
 ## Instalación
 1. **Clonar el repositorio**:
    ```bash
